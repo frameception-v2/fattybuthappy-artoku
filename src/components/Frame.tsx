@@ -26,9 +26,9 @@ function ExampleCard() {
   return (
     <Card>
       <CardHeader>
-        <CardTitle>Welcome to the Frame Template</CardTitle>
+        <CardTitle>Welcome to Noundoku</CardTitle>
         <CardDescription>
-          This is an example card that you can customize or remove
+          Get ready to solve Nouns-themed Sudoku puzzles
         </CardDescription>
       </CardHeader>
       <CardContent>
